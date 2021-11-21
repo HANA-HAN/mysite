@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'blog.apps.BlogConfig',
-
+    'widget_tweaks',
 
     'taggit.apps.TaggitAppConfig',
     'taggit_templatetags2',
